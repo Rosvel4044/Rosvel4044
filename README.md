@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rosvel4044
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning In University of Yaounde 1 
-- 💞️ I’m looking to collaborate  with
+- 💞️ I’m looking to collaborate  with the data scientist
 - 📫 How to reach me rosveltsague@gmail.com
 
 <!---
